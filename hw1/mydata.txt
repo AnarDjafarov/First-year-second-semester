@@ -1,0 +1,9 @@
+CNV301,Treasure Island,Robert Louis Stevenson,304,1882,Adventure
+8T88FF,Heir to The Empire,Timothy Zahn,416,1992,SciFi
+911MAR10,Plumbing for Dummies,Gene Hamilton,242,1999,Educational
+6U754E,Berserk,Kenturo Miura,224,1989,Fantasy
+7R011,The Troll Cookbook : Human Delights,Underchief Trogdor,7,-35,Educational
+M140,Funny Cats,Jean-Claude Suar\'e8s,78,1995,Comedy
+V269W7,Linus the Vegetarian T. rex,Robert Neubecker,40,2013,Adventure
+UFF404,Algebra 3,Nebi Rogen,300,0,Educational
+424242,The Hitchhiker's Guide to the Galaxy,Douglas Adams,224,1979,Comedy
